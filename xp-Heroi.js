@@ -1,5 +1,5 @@
 let heroName = "Gabriel";
-let xp = 11000;
+let xp = 8000;
 
 let levelHero;
 
